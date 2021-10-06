@@ -1,5 +1,5 @@
 
-###Hello! 
+### Hello! 
 
 My name is Austin Nebel and I am a Software Engineer who will soon be a graduate from Iowa State University. 
 
@@ -10,7 +10,7 @@ I excel at building Python-based applications, preferably on Unix-based systems.
  
 I love DIY projects, and am currently have an ever-growing interest in Deep Learning AI models.
 
-Feel free to reach me at nebelaustin@gmail.com
+Feel free to reach me at any time at nebelaustin@gmail.com.
   
 <!---
 austinnebel/austinnebel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
