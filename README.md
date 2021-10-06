@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @austinnebel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-Hello! My name is Austin Nebel and I am a Software Engineer who will soon be a graduate from Iowa State University. 
+###Hello! 
+
+My name is Austin Nebel and I am a Software Engineer who will soon be a graduate from Iowa State University. 
 
 I excel at building Python-based applications, preferably on Unix-based systems. Besides that, just a few of my stronger areas include:
   - Embedded/IoT systems with Raspberry Pi/Arduino Devices
