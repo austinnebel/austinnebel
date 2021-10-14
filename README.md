@@ -3,10 +3,7 @@
 
 My name is Austin Nebel and I am a Software Engineer who will soon be a graduate from Iowa State University. 
 
-I excel at building Python-based applications, preferably on Unix-based systems. Besides that, just a few of my stronger areas include:
-  - Embedded/IoT systems with Raspberry Pi/Arduino Devices
-  - Deep Learning with Tensorflow
-  - Video/image data manipulation using FFmpeg/Pillow
+I excel at building Python-based applications, preferably on Unix-based systems. Besides that, just a few of my stronger areas include embedded/IoT systems with Arduino Devices and video/image data manipulation using FFmpeg/Pillow.
  
 I love DIY projects, and am currently have an ever-growing interest in Deep Learning AI models.
 
