@@ -1,11 +1,10 @@
 
 ### Hello! 
 
-My name is Austin Nebel and I am a Software Engineer who will soon be a graduate from Iowa State University. 
+My name is Austin Nebel and I am a Software Engineering graduate from Iowa State University. 
 
-I excel at building Python-based applications, preferably on Unix-based systems. Besides that, just a few of my stronger areas include embedded/IoT systems with Arduino Devices and video/image data manipulation using FFmpeg/Pillow.
+I excel at building embedded Python applications, preferably on Unix-based systems such as Arduino. I also enjoy developing React/React-Native projects with typescript.
  
-I love DIY projects, and am currently have an ever-growing interest in Deep Learning AI models.
 
 Feel free to reach me at any time at nebelaustin@gmail.com.
   
