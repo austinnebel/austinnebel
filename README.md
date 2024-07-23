@@ -3,7 +3,7 @@
 
 My name is Austin Nebel and I'm a Software Engineering graduate from Iowa State University. 
 
-I excel at building full-stack applications using tools and frameworks such as Next.js, React.js, and cloud services such as AWS and GCP, preferably using TypeScript. I also have extensive experience with Python building backend systems, developing complex embedded Linux devices/servers, and performing data analysis.
+I excel at building full-stack applications using technologies like TypeScript, Next.js, React.js, AWS, and GCP services. I also have extensive experience with Python building backend systems, developing complex embedded Linux devices/servers, and performing data analysis.
 
 Feel free to reach me at any time at nebelaustin@gmail.com.
 
